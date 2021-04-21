@@ -18,9 +18,9 @@ A landing page with a countdown to new year. It uses the Date object and updates
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/115500395-cac1ce80-a2a3-11eb-9eba-496521de14c9.png)
 
-[Demo]()
+[Demo](https://brave-volhard-22dd48.netlify.app)
 
 ## Built With
 
